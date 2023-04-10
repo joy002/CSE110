@@ -25,7 +25,7 @@ Fun fact about my dog: although she looks like a baby, she is 16 years old alrea
 I wish one day I can have the ability to adopt a cat [cool adoption link](https://www.petsmart.com/adoption/people-saving-pets/ca-adoption-landing.html)
 
 [Section Links]: <>
-### Go back to the [top](https://github.com/joy002/CSE110/blob/main/index.md#joanna-yang)
+### Fast foward to the [end](https://github.com/joy002/CSE110/blob/main/index.md#something-i-do-everyday)
 
 [Relative links(Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)]: <>
 [README.md](https://github.com/joy002/CSE110/blob/main/README.md)
