@@ -48,6 +48,5 @@ I wish one day I can have the ability to adopt a cat [cool adoption link](https:
 - [ ] eat breakfast
 - [ ] go to school
 
-introduces who you are as a programmer and as a person. Your User Page must be made with Markdown.
 
 Section links
