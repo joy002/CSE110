@@ -20,7 +20,7 @@ Fun fact about my dog: although she looks like a baby, she is 16 years old alrea
 ```
 
 [External Links]: <>
-I wish one day I can have the ability to adopt a cat [cool adoption link](https://www.petsmart.com/adoption/people-saving-pets/ca-adoption-landing.html)
+I wish one day I can have the ability to adopt a cat: [cool adoption link](https://www.petsmart.com/adoption/people-saving-pets/ca-adoption-landing.html)
 
 [Section Links]: <>
 ### Fast foward to the [end](https://github.com/joy002/CSE110/blob/main/index.md#something-i-do-everyday)
