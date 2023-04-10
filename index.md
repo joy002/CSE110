@@ -1,6 +1,8 @@
 
-[Pictures]: <>
+[Pictures1]: <>
 ![Picture1](110MyPicture.png)
+
+[Pictures2]: <>
 ![Picture2](110MyDog.heic)
 
 [Heading]: <>
