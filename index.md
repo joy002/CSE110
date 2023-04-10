@@ -1,12 +1,16 @@
 ![Picture](110MyPicture.png)
+//Heading
+# Joanna Yang
+*Third year, CS major, UCSD*
+> This quarter I am taking CSE110
+```
+
+```
 
 
 
 introduces who you are as a programmer and as a person. Your User Page must be made with Markdown.
 
-All the core Markdown constructs in GitHub Flavored Markdown Links to an external site.
-Headings
-Styling text
 Quoting text
 Quoting code
 External Links
