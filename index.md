@@ -47,6 +47,3 @@ I wish one day I can have the ability to adopt a cat [cool adoption link](https:
 - [x] wake up
 - [ ] eat breakfast
 - [ ] go to school
-
-
-Section links
