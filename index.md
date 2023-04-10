@@ -3,7 +3,7 @@
 ![Picture1](110MyPicture.png)
 
 [Pictures2]: <>
-![Picture2](https://github.com/joy002/CSE110/blob/main/110MyDog.heic)
+![Picture2](110MyDog.png)
 
 [Heading]: <>
 # Joanna Yang
