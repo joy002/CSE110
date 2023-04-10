@@ -1,4 +1,5 @@
 ![Picture](110MyPicture.png)
+
 [Heading]: <>
 # Joanna Yang
 *Third year, CS major, UCSD*
