@@ -14,7 +14,7 @@
 *Third year, CS major, UCSD*
 
 [Quoting text]: <>
-> I have a dog
+> Goal for this class: learned all skills necessary and get well-prepared to look for a full time software engineer job in the industry.
 
 [Quoting code]: <>
 ```
