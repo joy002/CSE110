@@ -2,6 +2,8 @@
 [Pictures1]: <>
 ![Picture1](110MyPicture.png)
 
+</br>
+
 [Pictures2]: <>
 ![Picture2](110MyDog.png)
 
