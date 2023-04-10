@@ -1,1 +1,1 @@
-# CSE110
+My favorite programming language: Python.
