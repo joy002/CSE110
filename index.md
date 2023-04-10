@@ -1,5 +1,5 @@
 ![Picture](110MyPicture.png)
-//Heading
+[comment]: <> (Heading)
 # Joanna Yang
 *Third year, CS major, UCSD*
 > This quarter I am taking CSE110
