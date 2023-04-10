@@ -5,7 +5,7 @@
 </br>
 
 [Pictures2]: <>
-
+![Picture2](110MyDog.png)
 
 [Heading]: <>
 # Joanna Yang
@@ -29,7 +29,6 @@ Go back to the [top](https://github.com/joy002/CSE110/blob/main/index.md#joanna-
 
 
 introduces who you are as a programmer and as a person. Your User Page must be made with Markdown.
-
 
 Section links
 
